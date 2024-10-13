@@ -1,0 +1,9 @@
+{
+    "name": "filesystem/filesystem",
+    "description": "Gestior de ficheros en PHP y JS by Toni Domenech",
+    "autoload": {
+        "psr-4": {
+            "\\php\\Filesystem\\Filesystem\\": "src/"
+        }
+    }
+}
